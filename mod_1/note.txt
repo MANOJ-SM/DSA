@@ -1,0 +1,20 @@
+// overview of Data strutures 
+
+data sturtures :  are the tools that are designed to organinze and store information effeciently 
+they facilitate easier retrival and manipulation of data.
+
+Alogorithm : sequence of insructions that are used to solve a problem or perform a task.
+
+DS - save space , fast retrival , 
+
+** type of task we have to do and type of data we want to store decide which DS we should use 
+* efficient dS simplify algorithm design 
+
+orgsnizing dat is imp bcoz it helps in bulidind websites and analyzing data 
+
+// types of data struture 
+
+1) Linear Data Structures :
+
+Linear Data Structures are a type of data structure where data elements are arranged sequentially or linearly where Each element has a previous and next adjacent, except for the first and last elements.
+
