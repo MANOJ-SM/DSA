@@ -16,5 +16,24 @@ orgsnizing dat is imp bcoz it helps in bulidind websites and analyzing data
 
 1) Linear Data Structures :
 
-Linear Data Structures are a type of data structure where data elements are arranged sequentially or linearly where Each element has a previous and next adjacent, except for the first and last elements.
+Linear Data Structures are a type of data structure where data elements are arranged sequentially or linearly where Each piece of data connected to its  previous(predecessor) and next adjacent(successor), except for the first and last elements.
 
+the 1st ele to be added is either accessed 1st or removed first
+the last ele to be added is either accessed last or removed last
+
+common linear ds :
+
+1)Array (fixed size)
+2)Linkid list ( dynamic size)
+3)stack ( dynamic size)
+4)queue ( dynamic size)
+
+
+2) Non-Linear Data Structures :
+Non-Linear Data Structures are a type of data structure where data is not organized in sequential manner insted it form a web like structure ( loops / branchs ) where each element is connected to multiple other elements.
+
+1)Trees
+2)Graph
+3)Heap
+
+** the way elements are organzised or arranged differentiate blw linear and non linear DS
