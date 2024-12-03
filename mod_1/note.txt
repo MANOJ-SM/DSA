@@ -1,18 +1,19 @@
-// overview of Data strutures 
+//1. overview of Data strutures 
 
 data sturtures :  are the tools that are designed to organinze and store information effeciently 
 they facilitate easier retrival and manipulation of data.
 
 Alogorithm : sequence of insructions that are used to solve a problem or perform a task.
 
-DS - save space , fast retrival , 
+DS - helps to organix=ze the data effeciently , save space , fast retrival , 
+Algm - operation that we perform on that oranganized data.
 
 ** type of task we have to do and type of data we want to store decide which DS we should use 
-* efficient dS simplify algorithm design 
+** efficient dS simplify algorithm design 
 
-orgsnizing dat is imp bcoz it helps in bulidind websites and analyzing data 
+orgsnizing data is imp bcoz it helps in bulidind websites and analyzing data 
 
-// types of data struture 
+// 2.types of data struture 
 
 1) Linear Data Structures :
 
@@ -37,3 +38,15 @@ Non-Linear Data Structures are a type of data structure where data is not organi
 3)Heap
 
 ** the way elements are organzised or arranged differentiate blw linear and non linear DS
+
+// 3.Importance of Algorithms 
+
+choosing an algo for task depends on
+1)size of the problem
+2)resourse available
+3)how quickly we need solution 
+
+
+an effecient algo is determiened by time and space complexity analysis 
+
+
