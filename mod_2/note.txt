@@ -1,0 +1,35 @@
+complexity and notation of algorithm 
+
+//1. Time and Space complexity
+
+Time complexity
+
+time complexity : how much time the algo takes time to run 
+
+it needs to be calculated for checking the time taken by the algorithm to run for a given input size.
+
+and for also checking which algorithm is more efficient than the other.
+
+notaions used in time complexity:
+- O(1) - constant time complexity
+- O(log n) - logarithmic time complexity
+- O(n) - linear time complexity
+- O(n log n) - linearithmic time complexity
+- O(n^2) - quadratic time complexity
+- O(2^n) - exponential time complexity
+
+//2. Space complexity
+it needs to be calculated for checking the space taken by the algorithm to run for a given input size
+and for also checking which algorithm is more efficient than the other.
+
+//3. Big O notation
+it is used to describe the complexity of an algorithm in terms of the input size.
+
+//4. Big Omega notation
+it is used to describe the lower bound of an algorithm's complexity.
+
+//5. Big Theta notation
+it is used to describe the upper and lower bound of an algorithm's complexity.
+
+space complexity
+
