@@ -33,3 +33,6 @@ it is used to describe the upper and lower bound of an algorithm's complexity.
 
 space complexity
 
+space complexity is the amount of memory space required by an algorithm to run.
+
+
