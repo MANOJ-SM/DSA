@@ -29,15 +29,15 @@
 // 2) ex: concatination of array / twice of array  
 // o/p -> [1,2,3,1,2,3]
 
-const arr = [1,2,3];
+// const arr = [1,2,3];
 
-for(let i=0; i<arr.length; i++){             // arr.length =  3
-   arr[arr.length + i] = arr[i];               // a[3] 
-}
+// for(let i=0; i<arr.length; i++){             // arr.length =  3
+//    arr[arr.length + i] = arr[i];               // a[3] 
+// }
 
-for(let i=0; i<arr.length; i++){             // arr.length =  6
-    console.log(arr[i]);                      // 1,2,3,1,2,3
-}
+// for(let i=0; i<arr.length; i++){             // arr.length =  6
+//     console.log(arr[i]);                      // 1,2,3,1,2,3
+// }
 
 //Final Complexity
 //Time Complexity: O(n)
@@ -66,4 +66,24 @@ Total space used: n (original) + n (extra) = 2n
 Drop constants → Space Complexity = O(n).
 
 */
+
+// insertion sort
+
+const arr=[1,2,3,17,23,10];
+let n = arr.length;
+
+function insertionSort(arr,n){
+    for(let i=1; i<n; i++){
+      let key = arr[i];
+      let j = i-1;
+
+      while(j>=0 && arr[j] > key){
+        arr[j + 1] = arr[j];
+        j--;
+      }
+      arr[j+1] = key;
+    }
+}
+
+insertionSort(arr,n);
 
